@@ -1,0 +1,83 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "locations": "المواقع",
+    "resources": "الموارد",
+    "contact": "اتصل بنا",
+    "about": "حولنا",
+    "language": "اللغة",
+    "arabic": "العربية",
+    "english": "English",
+    "readMore": "اقرأ المزيد",
+    "learnMore": "تعلم المزيد",
+    "getStarted": "ابدأ الآن",
+    "contactUs": "اتصل بنا",
+    "viewAll": "عرض الكل",
+    "search": "بحث",
+    "filter": "تصفية",
+    "category": "الفئة",
+    "date": "التاريخ",
+    "author": "الكاتب",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "workingHours": "ساعات العمل"
+  },
+  "navigation": {
+    "mainMenu": "القائمة الرئيسية",
+    "closeMenu": "إغلاق القائمة",
+    "skipToContent": "انتقل إلى المحتوى"
+  },
+  "home": {
+    "title": "خدمات السيارات المتميزة",
+    "subtitle": "شريكك الموثوق لجميع احتياجات السيارات مع خدمة مهنية وقطع غيار عالية الجودة",
+    "heroButton1": "خدماتنا",
+    "heroButton2": "العثور على موقع",
+    "servicesTitle": "خدماتنا",
+    "servicesSubtitle": "حلول شاملة للسيارات لمركبتك",
+    "locationsTitle": "مواقع الخدمة",
+    "locationsSubtitle": "اعثر على مراكز الخدمة القريبة منك",
+    "resourcesTitle": "أحدث الموارد",
+    "resourcesSubtitle": "ابق على اطلاع بنصائح وأخبار السيارات"
+  },
+  "services": {
+    "title": "خدماتنا",
+    "subtitle": "خدمات السيارات المهنية التي يمكنك الوثوق بها",
+    "allServices": "جميع الخدمات"
+  },
+  "locations": {
+    "title": "مواقع الخدمة",
+    "subtitle": "اعثر على مراكز الخدمة في جميع أنحاء المنطقة",
+    "findNearest": "العثور على أقرب موقع",
+    "getDirections": "الحصول على الاتجاهات",
+    "callNow": "اتصل الآن"
+  },
+  "resources": {
+    "title": "الموارد والأخبار",
+    "subtitle": "ابق على اطلاع بأحدث رؤى السيارات",
+    "allCategories": "جميع الفئات",
+    "readingTime": "دقيقة قراءة",
+    "publishedOn": "نُشر في",
+    "relatedPosts": "المقالات ذات الصلة"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "subtitle": "تواصل مع فريقنا",
+    "name": "الاسم",
+    "message": "الرسالة",
+    "send": "إرسال الرسالة",
+    "success": "تم إرسال الرسالة بنجاح!",
+    "error": "فشل في إرسال الرسالة. يرجى المحاولة مرة أخرى."
+  },
+  "footer": {
+    "description": "شريك خدمة السيارات الموثوق الذي يقدم حلول عالية الجودة في جميع أنحاء المنطقة.",
+    "quickLinks": "روابط سريعة",
+    "ourServices": "خدماتنا",
+    "contactInfo": "معلومات الاتصال",
+    "followUs": "تابعنا",
+    "allRightsReserved": "جميع الحقوق محفوظة.",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة"
+  }
+}
